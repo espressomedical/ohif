@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://espressomedical.github.io/ohif/precache-manifest.e39449002c2cc4de9eea1401edb0ac80.js"
+  "https://espressomedical.github.io/ohif/precache-manifest.886af65bd79c64a5d5c699818ec9c66e.js"
 );
 
 workbox.core.skipWaiting();

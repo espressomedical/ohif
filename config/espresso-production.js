@@ -38,7 +38,7 @@ window.config = {
       },
 
       client_id: '6ba6027a-aef2-493f-b64d-93c77f1d8d95',
-      redirect_uri: 'https://viewer.espressomedical.com/#/callback', // `OHIFStandaloneViewer.js`
+      redirect_uri: 'https://espressomedical.github.io/ohif/#/callback', // `OHIFStandaloneViewer.js`
       // "Authorization Code Flow"
       // Resource: https://medium.com/@darutk/diagrams-of-all-the-openid-connect-flows-6968e3990660
       response_type: 'code',

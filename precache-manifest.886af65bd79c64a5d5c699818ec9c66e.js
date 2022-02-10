@@ -31,7 +31,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://espressomedical.github.io/ohif/config/docker_openresty-orthanc.js"
   },
   {
-    "revision": "bb3f446849857b38df2f588e0a386d38",
+    "revision": "41305982a160162d1863c7c4fad2dae3",
     "url": "https://espressomedical.github.io/ohif/config/espresso-production.js"
   },
   {
